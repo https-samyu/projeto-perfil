@@ -10,8 +10,8 @@ Full-Stack Developer |
 
 # Stack
 
-HTML & CSS, 
-JavaScript, 
+HTML & CSS -
+JavaScript - 
 C# - Python - Java - C++
 PHP - SQL.
 
